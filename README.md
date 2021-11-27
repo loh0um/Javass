@@ -8,7 +8,6 @@
 ## Description
 Javass est un programme permettant de jouer au célèbre jeu du jass, codé en java lors du cours [CS-108 Pratique de la programmation orientée objet](https://cs108.epfl.ch/archive/19/archive.html) enseigné à l'EPFL lors de l'édition 2019. Il permet de jouer à la fois seul contre l'ordinateur, à plusieurs joueurs sur un même ordinateur (multi-fenêtres) ou en réseau ainsi que de manière mixte entre toutes ces possibilités.
 
----
 
 ## Utilisation
 ### Lancer une partie
@@ -23,7 +22,6 @@ Le joueur local, quand à lui, peut choisir le type de joueurs participant à la
 ### Fin de partie
 La partie se termine dès qu'une des deux équipes obtient 1000 points.
 
----
 
 ## Fonctionnalités et implémentations
 ### Choix de l'atout
