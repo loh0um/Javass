@@ -12,7 +12,7 @@ Javass est un programme permettant de jouer au célèbre jeu du jass, codé en j
 
 ## Utilisation
 ### Lancer une partie
-Pour lancer la partie, vous pouvez simplement double cliquer sur le fichier Javass.jar dans le dossier Executable ou le lancer depuis un terminal. Lorsque le programme est lancé, une page d'accueil permettant de choisir le type de partie s'affiche.
+Pour lancer la partie, vous pouvez simplement double cliquer sur le fichier Javass.jar dans le dossier executable ou le lancer depuis un terminal. Lorsque le programme est lancé, une page d'accueil permettant de choisir le type de partie s'affiche.
 
 <img src="images/readme/launcher.png" width="400">
 
