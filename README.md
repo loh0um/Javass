@@ -4,6 +4,7 @@
 * [Description](#description)
 * [Utilisation](#utilisation)
 * [Fonctionnalités et implémentations](#fonctionnalités-et-implémentations)
+* [Contributors](#contributors)
 
 ## Description
 Javass est un programme permettant de jouer au célèbre jeu du jass, codé en java lors du cours [CS-108 Pratique de la programmation orientée objet](https://cs108.epfl.ch/archive/19/archive.html) enseigné à l'EPFL lors de l'édition 2019. Il permet de jouer à la fois seul contre l'ordinateur, à plusieurs joueurs sur un même ordinateur (multi-fenêtres) ou en réseau ainsi que de manière mixte entre toutes ces possibilités.
@@ -41,3 +42,5 @@ L'interface graphique se base sur le patron de conception [MVC (modèle-vue-cont
 
 <img src="images/readme/interface_graphique.png" width="400">
 
+## Contributors
+[Squalene](https://github.com/Squalene), [loh0um](https://github.com/loh0um)
